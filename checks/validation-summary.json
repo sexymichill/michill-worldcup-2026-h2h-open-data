@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-06-10T16:19:09.287Z",
+  "packageName": "michill-worldcup-2026-h2h-open-data",
+  "sourceDatabase": "worldcup_pm_v2.sqlite",
+  "teams": 48,
+  "fixtures": 72,
+  "totalPairs": 1128,
+  "directHistoryPairs": 820,
+  "confirmedNoMeetingPairs": 308,
+  "needsVerificationPairs": 0,
+  "groupStagePairs": 72,
+  "groupStageDirectHistoryPairs": 45,
+  "groupStageConfirmedNoMeetingPairs": 27,
+  "h2hMatches": 7503,
+  "h2hSummaryDirectedRows": 2256,
+  "noMeetingVerificationRows": 1232,
+  "checks": {
+    "teams48": true,
+    "fixtures72": true,
+    "pairs1128": true,
+    "h2hClosed": true,
+    "needsVerificationZero": true,
+    "groupStagePairs72": true,
+    "noMeetingVerificationRowsExpected": true
+  },
+  "generatedFiles": {
+    "data/teams.csv": 48,
+    "data/group_stage_fixtures.csv": 72,
+    "data/h2h_pairs.csv": 1128,
+    "data/h2h_matches.csv": 7503,
+    "data/h2h_summary_directed.csv": 2256,
+    "data/h2h_no_meeting_verification.csv": 1232
+  }
+}

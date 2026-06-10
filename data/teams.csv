@@ -1,0 +1,49 @@
+team_id,team_name,team_name_en,fifa_code,country_code,confederation,group_name
+cze,捷克,Czechia,CZE,CZE,UEFA,A
+kor,韩国,Korea Republic,KOR,KOR,AFC,A
+mex,墨西哥,Mexico,MEX,MEX,CONCACAF,A
+rsa,南非,South Africa,RSA,RSA,CAF,A
+bih,波黑,Bosnia and Herzegovina,BIH,BIH,UEFA,B
+can,加拿大,Canada,CAN,CAN,CONCACAF,B
+qat,卡塔尔,Qatar,QAT,QAT,AFC,B
+sui,瑞士,Switzerland,SUI,SUI,UEFA,B
+bra,巴西,Brazil,BRA,BRA,CONMEBOL,C
+hai,海地,Haiti,HAI,HAI,CONCACAF,C
+mar,摩洛哥,Morocco,MAR,MAR,CAF,C
+sco,苏格兰,Scotland,SCO,SCO,UEFA,C
+aus,澳大利亚,Australia,AUS,AUS,AFC,D
+par,巴拉圭,Paraguay,PAR,PAR,CONMEBOL,D
+tur,土耳其,Turkiye,TUR,TUR,UEFA,D
+usa,美国,United States,USA,USA,CONCACAF,D
+civ,科特迪瓦,Cote d'Ivoire,CIV,CIV,CAF,E
+cuw,库拉索,Curacao,CUW,CUW,CONCACAF,E
+ecu,厄瓜多尔,Ecuador,ECU,ECU,CONMEBOL,E
+ger,德国,Germany,GER,GER,UEFA,E
+jpn,日本,Japan,JPN,JPN,AFC,F
+ned,荷兰,Netherlands,NED,NED,UEFA,F
+swe,瑞典,Sweden,SWE,SWE,UEFA,F
+tun,突尼斯,Tunisia,TUN,TUN,CAF,F
+bel,比利时,Belgium,BEL,BEL,UEFA,G
+egy,埃及,Egypt,EGY,EGY,CAF,G
+irn,伊朗,IR Iran,IRN,IRN,AFC,G
+nzl,新西兰,New Zealand,NZL,NZL,OFC,G
+cpv,佛得角,Cabo Verde,CPV,CPV,CAF,H
+esp,西班牙,Spain,ESP,ESP,UEFA,H
+ksa,沙特阿拉伯,Saudi Arabia,KSA,KSA,AFC,H
+uru,乌拉圭,Uruguay,URU,URU,CONMEBOL,H
+fra,法国,France,FRA,FRA,UEFA,I
+irq,伊拉克,Iraq,IRQ,IRQ,AFC,I
+nor,挪威,Norway,NOR,NOR,UEFA,I
+sen,塞内加尔,Senegal,SEN,SEN,CAF,I
+alg,阿尔及利亚,Algeria,ALG,ALG,CAF,J
+arg,阿根廷,Argentina,ARG,ARG,CONMEBOL,J
+aut,奥地利,Austria,AUT,AUT,UEFA,J
+jor,约旦,Jordan,JOR,JOR,AFC,J
+cod,刚果（金）,DR Congo,COD,COD,CAF,K
+col,哥伦比亚,Colombia,COL,COL,CONMEBOL,K
+por,葡萄牙,Portugal,POR,POR,UEFA,K
+uzb,乌兹别克斯坦,Uzbekistan,UZB,UZB,AFC,K
+cro,克罗地亚,Croatia,CRO,CRO,UEFA,L
+eng,英格兰,England,ENG,ENG,UEFA,L
+gha,加纳,Ghana,GHA,GHA,CAF,L
+pan,巴拿马,Panama,PAN,PAN,CONCACAF,L

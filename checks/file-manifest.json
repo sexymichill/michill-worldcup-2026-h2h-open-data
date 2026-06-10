@@ -1,0 +1,87 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 4746,
+    "sha256": "fce23794830a832001edccbfb20b0bc010fd02f3422f50763b1c9c5e74c79059"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 140,
+    "sha256": "f6bf2fafdcc2e0a57aa8dfd2ae4077baef7ff6c0079c174431e31abe54094d80"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1065,
+    "sha256": "1320021dff613f296cd36af1cf41c88d9085e0ea5306181baed27b0964d24360"
+  },
+  {
+    "path": "DATA_LICENSE.md",
+    "bytes": 667,
+    "sha256": "6b48867444f10b8640f75d0f2e5c0d30126eee5cf82bfda38fc92f09ea241099"
+  },
+  {
+    "path": "data/teams.csv",
+    "bytes": 1922,
+    "sha256": "29ddc0e7438bf57b786f767320e69352fd26d9f695f5224db86ecf3473cd06e2"
+  },
+  {
+    "path": "data/group_stage_fixtures.csv",
+    "bytes": 10874,
+    "sha256": "5a0382cb4b524bf4a0b61ac5d97ead9a26d441db22bf5d674775108064fbc797"
+  },
+  {
+    "path": "data/h2h_pairs.csv",
+    "bytes": 181685,
+    "sha256": "466e07af8c5230177bf42a67762c70be3ef2dd1a277761b60d6c7ae8fa53cf09"
+  },
+  {
+    "path": "data/h2h_matches.csv",
+    "bytes": 1876211,
+    "sha256": "12718da9351e882655cec30c18fa797222f8091ca155c4667553bdcd0badfb9a"
+  },
+  {
+    "path": "data/h2h_summary_directed.csv",
+    "bytes": 313415,
+    "sha256": "f5b6c536930826f44870e3f29b7b4cc9ece648ef08be31e742ca72d113d57cd2"
+  },
+  {
+    "path": "data/h2h_no_meeting_verification.csv",
+    "bytes": 232165,
+    "sha256": "d652b76bf28fd6954abbc79d4d4486ae365cc022b8758116955588e839ab8c51"
+  },
+  {
+    "path": "data/h2h_coverage_matrix.json",
+    "bytes": 779607,
+    "sha256": "9e451099c1e15b9e448a82e095b280817ba270d71567b92145a4bc5582243e7f"
+  },
+  {
+    "path": "docs/METHODOLOGY.md",
+    "bytes": 1174,
+    "sha256": "725e0e016ce1b3003f00ce9f22d3854d4810c53e36046a849977281c3a53d326"
+  },
+  {
+    "path": "docs/FIELD_DICTIONARY.md",
+    "bytes": 3325,
+    "sha256": "ebad4f35e90a4eccad98459b917d65a5f50873b6fbe5e0f66b6f3507633a23f7"
+  },
+  {
+    "path": "docs/SOURCES.md",
+    "bytes": 998,
+    "sha256": "996567de2c7b5f6ad3cbd42152c57f7452ea9d12348ea6d289b3dba38ee6cdd4"
+  },
+  {
+    "path": "scripts/README.md",
+    "bytes": 354,
+    "sha256": "d846aad5407db5e41998624640ebc24a6b7dfa670932c9ab04e33f519f61774f"
+  },
+  {
+    "path": "scripts/export-open-h2h-package.ts",
+    "bytes": 28922,
+    "sha256": "1efcd4bd2708dbe575b0fd22f438246b5c682fd6f2b36c033379f2221e2642f6"
+  },
+  {
+    "path": "checks/validation-summary.json",
+    "bytes": 971,
+    "sha256": "c0e96a90c68ce08712dab5edd82fd283d0f293939ff4e74da58c0cec3a04531a"
+  }
+]

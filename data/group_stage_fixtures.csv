@@ -1,0 +1,73 @@
+fixture_id,match_no,stage,group_name,kickoff_time_utc,venue,city,home_team_id,home_team_code,home_team_name,home_team_name_en,away_team_id,away_team_code,away_team_name,away_team_name_en,official_source
+official-001,1,Group Stage,A,2026-06-11T19:00:00Z,Estadio Azteca,Mexico City,mex,MEX,墨西哥,Mexico,rsa,RSA,南非,South Africa,fifa_official_pdf
+official-002,2,Group Stage,A,2026-06-12T02:00:00Z,Estadio Akron,Zapopan,kor,KOR,韩国,Korea Republic,cze,CZE,捷克,Czechia,fifa_official_pdf
+official-003,3,Group Stage,B,2026-06-12T19:00:00Z,BMO Field,Toronto,can,CAN,加拿大,Canada,bih,BIH,波黑,Bosnia and Herzegovina,fifa_official_pdf
+official-004,4,Group Stage,D,2026-06-13T01:00:00Z,SoFi Stadium,Inglewood,usa,USA,美国,United States,par,PAR,巴拉圭,Paraguay,fifa_official_pdf
+official-005,5,Group Stage,C,2026-06-14T01:00:00Z,Gillette Stadium,Foxborough,hai,HAI,海地,Haiti,sco,SCO,苏格兰,Scotland,fifa_official_pdf
+official-006,6,Group Stage,D,2026-06-14T04:00:00Z,BC Place,Vancouver,aus,AUS,澳大利亚,Australia,tur,TUR,土耳其,Turkiye,fifa_official_pdf
+official-007,7,Group Stage,C,2026-06-13T22:00:00Z,MetLife Stadium,East Rutherford,bra,BRA,巴西,Brazil,mar,MAR,摩洛哥,Morocco,fifa_official_pdf
+official-008,8,Group Stage,B,2026-06-13T19:00:00Z,Levi's Stadium,Santa Clara,qat,QAT,卡塔尔,Qatar,sui,SUI,瑞士,Switzerland,fifa_official_pdf
+official-009,9,Group Stage,E,2026-06-14T23:00:00Z,Lincoln Financial Field,Philadelphia,civ,CIV,科特迪瓦,Cote d'Ivoire,ecu,ECU,厄瓜多尔,Ecuador,fifa_official_pdf
+official-010,10,Group Stage,E,2026-06-14T17:00:00Z,NRG Stadium,Houston,ger,GER,德国,Germany,cuw,CUW,库拉索,Curacao,fifa_official_pdf
+official-011,11,Group Stage,F,2026-06-14T20:00:00Z,AT&T Stadium,Arlington,ned,NED,荷兰,Netherlands,jpn,JPN,日本,Japan,fifa_official_pdf
+official-012,12,Group Stage,F,2026-06-15T02:00:00Z,Estadio BBVA,Guadalupe,swe,SWE,瑞典,Sweden,tun,TUN,突尼斯,Tunisia,fifa_official_pdf
+official-013,13,Group Stage,H,2026-06-15T22:00:00Z,Hard Rock Stadium,Miami Gardens,ksa,KSA,沙特阿拉伯,Saudi Arabia,uru,URU,乌拉圭,Uruguay,fifa_official_pdf
+official-014,14,Group Stage,H,2026-06-15T16:00:00Z,Mercedes-Benz Stadium,Atlanta,esp,ESP,西班牙,Spain,cpv,CPV,佛得角,Cabo Verde,fifa_official_pdf
+official-015,15,Group Stage,G,2026-06-16T01:00:00Z,SoFi Stadium,Inglewood,irn,IRN,伊朗,IR Iran,nzl,NZL,新西兰,New Zealand,fifa_official_pdf
+official-016,16,Group Stage,G,2026-06-15T19:00:00Z,Lumen Field,Seattle,bel,BEL,比利时,Belgium,egy,EGY,埃及,Egypt,fifa_official_pdf
+official-017,17,Group Stage,I,2026-06-16T19:00:00Z,MetLife Stadium,East Rutherford,fra,FRA,法国,France,sen,SEN,塞内加尔,Senegal,fifa_official_pdf
+official-018,18,Group Stage,I,2026-06-16T22:00:00Z,Gillette Stadium,Foxborough,irq,IRQ,伊拉克,Iraq,nor,NOR,挪威,Norway,fifa_official_pdf
+official-019,19,Group Stage,J,2026-06-17T01:00:00Z,Arrowhead Stadium,Kansas City,arg,ARG,阿根廷,Argentina,alg,ALG,阿尔及利亚,Algeria,fifa_official_pdf
+official-020,20,Group Stage,J,2026-06-17T04:00:00Z,Levi's Stadium,Santa Clara,aut,AUT,奥地利,Austria,jor,JOR,约旦,Jordan,fifa_official_pdf
+official-021,21,Group Stage,L,2026-06-17T23:00:00Z,BMO Field,Toronto,gha,GHA,加纳,Ghana,pan,PAN,巴拿马,Panama,fifa_official_pdf
+official-022,22,Group Stage,L,2026-06-17T20:00:00Z,AT&T Stadium,Arlington,eng,ENG,英格兰,England,cro,CRO,克罗地亚,Croatia,fifa_official_pdf
+official-023,23,Group Stage,K,2026-06-17T17:00:00Z,NRG Stadium,Houston,por,POR,葡萄牙,Portugal,cod,COD,刚果（金）,DR Congo,fifa_official_pdf
+official-024,24,Group Stage,K,2026-06-18T02:00:00Z,Estadio Azteca,Mexico City,uzb,UZB,乌兹别克斯坦,Uzbekistan,col,COL,哥伦比亚,Colombia,fifa_official_pdf
+official-025,25,Group Stage,A,2026-06-18T16:00:00Z,Mercedes-Benz Stadium,Atlanta,cze,CZE,捷克,Czechia,rsa,RSA,南非,South Africa,fifa_official_pdf
+official-026,26,Group Stage,B,2026-06-18T19:00:00Z,SoFi Stadium,Inglewood,sui,SUI,瑞士,Switzerland,bih,BIH,波黑,Bosnia and Herzegovina,fifa_official_pdf
+official-027,27,Group Stage,B,2026-06-18T22:00:00Z,BC Place,Vancouver,can,CAN,加拿大,Canada,qat,QAT,卡塔尔,Qatar,fifa_official_pdf
+official-028,28,Group Stage,A,2026-06-19T01:00:00Z,Estadio Akron,Zapopan,mex,MEX,墨西哥,Mexico,kor,KOR,韩国,Korea Republic,fifa_official_pdf
+official-029,29,Group Stage,C,2026-06-20T00:30:00Z,Lincoln Financial Field,Philadelphia,bra,BRA,巴西,Brazil,hai,HAI,海地,Haiti,fifa_official_pdf
+official-030,30,Group Stage,C,2026-06-19T22:00:00Z,Gillette Stadium,Foxborough,sco,SCO,苏格兰,Scotland,mar,MAR,摩洛哥,Morocco,fifa_official_pdf
+official-031,31,Group Stage,D,2026-06-20T03:00:00Z,Levi's Stadium,Santa Clara,tur,TUR,土耳其,Turkiye,par,PAR,巴拉圭,Paraguay,fifa_official_pdf
+official-032,32,Group Stage,D,2026-06-19T19:00:00Z,Lumen Field,Seattle,usa,USA,美国,United States,aus,AUS,澳大利亚,Australia,fifa_official_pdf
+official-033,33,Group Stage,E,2026-06-20T20:00:00Z,BMO Field,Toronto,ger,GER,德国,Germany,civ,CIV,科特迪瓦,Cote d'Ivoire,fifa_official_pdf
+official-034,34,Group Stage,E,2026-06-21T00:00:00Z,Arrowhead Stadium,Kansas City,ecu,ECU,厄瓜多尔,Ecuador,cuw,CUW,库拉索,Curacao,fifa_official_pdf
+official-035,35,Group Stage,F,2026-06-20T17:00:00Z,NRG Stadium,Houston,ned,NED,荷兰,Netherlands,swe,SWE,瑞典,Sweden,fifa_official_pdf
+official-036,36,Group Stage,F,2026-06-21T04:00:00Z,Estadio BBVA,Guadalupe,tun,TUN,突尼斯,Tunisia,jpn,JPN,日本,Japan,fifa_official_pdf
+official-037,37,Group Stage,H,2026-06-21T22:00:00Z,Hard Rock Stadium,Miami Gardens,uru,URU,乌拉圭,Uruguay,cpv,CPV,佛得角,Cabo Verde,fifa_official_pdf
+official-038,38,Group Stage,H,2026-06-21T16:00:00Z,Mercedes-Benz Stadium,Atlanta,esp,ESP,西班牙,Spain,ksa,KSA,沙特阿拉伯,Saudi Arabia,fifa_official_pdf
+official-039,39,Group Stage,G,2026-06-21T19:00:00Z,SoFi Stadium,Inglewood,bel,BEL,比利时,Belgium,irn,IRN,伊朗,IR Iran,fifa_official_pdf
+official-040,40,Group Stage,G,2026-06-22T01:00:00Z,BC Place,Vancouver,nzl,NZL,新西兰,New Zealand,egy,EGY,埃及,Egypt,fifa_official_pdf
+official-041,41,Group Stage,I,2026-06-23T00:00:00Z,MetLife Stadium,East Rutherford,nor,NOR,挪威,Norway,sen,SEN,塞内加尔,Senegal,fifa_official_pdf
+official-042,42,Group Stage,I,2026-06-22T21:00:00Z,Lincoln Financial Field,Philadelphia,fra,FRA,法国,France,irq,IRQ,伊拉克,Iraq,fifa_official_pdf
+official-043,43,Group Stage,J,2026-06-22T17:00:00Z,AT&T Stadium,Arlington,arg,ARG,阿根廷,Argentina,aut,AUT,奥地利,Austria,fifa_official_pdf
+official-044,44,Group Stage,J,2026-06-23T03:00:00Z,Levi's Stadium,Santa Clara,jor,JOR,约旦,Jordan,alg,ALG,阿尔及利亚,Algeria,fifa_official_pdf
+official-045,45,Group Stage,L,2026-06-23T20:00:00Z,Gillette Stadium,Foxborough,eng,ENG,英格兰,England,gha,GHA,加纳,Ghana,fifa_official_pdf
+official-046,46,Group Stage,L,2026-06-23T23:00:00Z,BMO Field,Toronto,pan,PAN,巴拿马,Panama,cro,CRO,克罗地亚,Croatia,fifa_official_pdf
+official-047,47,Group Stage,K,2026-06-23T17:00:00Z,NRG Stadium,Houston,por,POR,葡萄牙,Portugal,uzb,UZB,乌兹别克斯坦,Uzbekistan,fifa_official_pdf
+official-048,48,Group Stage,K,2026-06-24T02:00:00Z,Estadio Akron,Zapopan,col,COL,哥伦比亚,Colombia,cod,COD,刚果（金）,DR Congo,fifa_official_pdf
+official-049,49,Group Stage,C,2026-06-24T22:00:00Z,Hard Rock Stadium,Miami Gardens,sco,SCO,苏格兰,Scotland,bra,BRA,巴西,Brazil,fifa_official_pdf
+official-050,50,Group Stage,C,2026-06-24T22:00:00Z,Mercedes-Benz Stadium,Atlanta,mar,MAR,摩洛哥,Morocco,hai,HAI,海地,Haiti,fifa_official_pdf
+official-051,51,Group Stage,B,2026-06-24T19:00:00Z,BC Place,Vancouver,sui,SUI,瑞士,Switzerland,can,CAN,加拿大,Canada,fifa_official_pdf
+official-052,52,Group Stage,B,2026-06-24T19:00:00Z,Lumen Field,Seattle,bih,BIH,波黑,Bosnia and Herzegovina,qat,QAT,卡塔尔,Qatar,fifa_official_pdf
+official-053,53,Group Stage,A,2026-06-25T01:00:00Z,Estadio Azteca,Mexico City,cze,CZE,捷克,Czechia,mex,MEX,墨西哥,Mexico,fifa_official_pdf
+official-054,54,Group Stage,A,2026-06-25T01:00:00Z,Estadio BBVA,Guadalupe,rsa,RSA,南非,South Africa,kor,KOR,韩国,Korea Republic,fifa_official_pdf
+official-055,55,Group Stage,E,2026-06-25T20:00:00Z,Lincoln Financial Field,Philadelphia,cuw,CUW,库拉索,Curacao,civ,CIV,科特迪瓦,Cote d'Ivoire,fifa_official_pdf
+official-056,56,Group Stage,E,2026-06-25T20:00:00Z,MetLife Stadium,East Rutherford,ecu,ECU,厄瓜多尔,Ecuador,ger,GER,德国,Germany,fifa_official_pdf
+official-057,57,Group Stage,F,2026-06-25T23:00:00Z,AT&T Stadium,Arlington,jpn,JPN,日本,Japan,swe,SWE,瑞典,Sweden,fifa_official_pdf
+official-058,58,Group Stage,F,2026-06-25T23:00:00Z,Arrowhead Stadium,Kansas City,tun,TUN,突尼斯,Tunisia,ned,NED,荷兰,Netherlands,fifa_official_pdf
+official-059,59,Group Stage,D,2026-06-26T02:00:00Z,SoFi Stadium,Inglewood,tur,TUR,土耳其,Turkiye,usa,USA,美国,United States,fifa_official_pdf
+official-060,60,Group Stage,D,2026-06-26T02:00:00Z,Levi's Stadium,Santa Clara,par,PAR,巴拉圭,Paraguay,aus,AUS,澳大利亚,Australia,fifa_official_pdf
+official-061,61,Group Stage,I,2026-06-26T19:00:00Z,Gillette Stadium,Foxborough,nor,NOR,挪威,Norway,fra,FRA,法国,France,fifa_official_pdf
+official-062,62,Group Stage,I,2026-06-26T19:00:00Z,BMO Field,Toronto,sen,SEN,塞内加尔,Senegal,irq,IRQ,伊拉克,Iraq,fifa_official_pdf
+official-063,63,Group Stage,G,2026-06-27T03:00:00Z,Lumen Field,Seattle,egy,EGY,埃及,Egypt,irn,IRN,伊朗,IR Iran,fifa_official_pdf
+official-064,64,Group Stage,G,2026-06-27T03:00:00Z,BC Place,Vancouver,nzl,NZL,新西兰,New Zealand,bel,BEL,比利时,Belgium,fifa_official_pdf
+official-065,65,Group Stage,H,2026-06-27T00:00:00Z,NRG Stadium,Houston,cpv,CPV,佛得角,Cabo Verde,ksa,KSA,沙特阿拉伯,Saudi Arabia,fifa_official_pdf
+official-066,66,Group Stage,H,2026-06-27T00:00:00Z,Estadio Akron,Zapopan,uru,URU,乌拉圭,Uruguay,esp,ESP,西班牙,Spain,fifa_official_pdf
+official-067,67,Group Stage,L,2026-06-27T21:00:00Z,MetLife Stadium,East Rutherford,pan,PAN,巴拿马,Panama,eng,ENG,英格兰,England,fifa_official_pdf
+official-068,68,Group Stage,L,2026-06-27T21:00:00Z,Lincoln Financial Field,Philadelphia,cro,CRO,克罗地亚,Croatia,gha,GHA,加纳,Ghana,fifa_official_pdf
+official-069,69,Group Stage,J,2026-06-28T02:00:00Z,Arrowhead Stadium,Kansas City,alg,ALG,阿尔及利亚,Algeria,aut,AUT,奥地利,Austria,fifa_official_pdf
+official-070,70,Group Stage,J,2026-06-28T02:00:00Z,AT&T Stadium,Arlington,jor,JOR,约旦,Jordan,arg,ARG,阿根廷,Argentina,fifa_official_pdf
+official-071,71,Group Stage,K,2026-06-27T23:30:00Z,Hard Rock Stadium,Miami Gardens,col,COL,哥伦比亚,Colombia,por,POR,葡萄牙,Portugal,fifa_official_pdf
+official-072,72,Group Stage,K,2026-06-27T23:30:00Z,Mercedes-Benz Stadium,Atlanta,cod,COD,刚果（金）,DR Congo,uzb,UZB,乌兹别克斯坦,Uzbekistan,fifa_official_pdf
