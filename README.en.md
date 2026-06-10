@@ -5,7 +5,7 @@
 
 Hi, this is **Michill**.
 
-We are building open football research datasets for people who want to study the 2026 World Cup with cleaner context, better source discipline, and fewer black-box assumptions. This repository is Michill's public head-to-head data package for the 2026 FIFA World Cup field. It covers every possible team-vs-team pairing among the 48 teams used by our research system.
+I am building open football research datasets for people who want to study the 2026 World Cup with cleaner context, better source discipline, and fewer black-box assumptions. This repository is Michill's public head-to-head data package for the 2026 FIFA World Cup field. It covers every possible team-vs-team pairing among the 48 teams used by my research system.
 
 The goal is simple: before the tournament starts, every possible matchup should already have a clear historical status:
 
@@ -113,7 +113,7 @@ The open package deliberately stops at reusable public football context. Private
 
 ## About Michill
 
-Michill is an independent football and prediction-market research project. We care about transparent data layers: what is known, what is missing, what is verified, and what should not be overclaimed.
+Michill is my independent football and prediction-market research project. I care about transparent data layers: what is known, what is missing, what is verified, and what should not be overclaimed.
 
 This release is the public, reusable part of that work.
 

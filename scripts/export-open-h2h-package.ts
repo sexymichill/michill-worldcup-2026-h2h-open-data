@@ -149,9 +149,9 @@ function writePackageDocs(input: {
 
 大家好，这里是 **Michill**。
 
-我们正在整理一套更干净、更可复用、更有来源纪律的 2026 世界杯足球研究数据。这个仓库是 Michill 对外公开的国家队历史交锋数据包，覆盖本届 48 支参赛球队之间所有可能出现的交叉对阵。
+我正在整理一套更干净、更可复用、更有来源纪律的 2026 世界杯足球研究数据。这个仓库是 Michill 对外公开的国家队历史交锋数据包，覆盖本届 48 支参赛球队之间所有可能出现的交叉对阵。
 
-我们的目标很简单：在比赛真正开始之前，把每一个潜在的球队对阵都先整理清楚：
+我的目标很简单：在比赛真正开始之前，把每一个潜在的球队对阵都先整理清楚：
 
 - 有历史直接交锋；
 - 或者已经查过并确认没有已知交锋；
@@ -257,7 +257,7 @@ Michill 会把这个公开数据包作为更大私有研究系统里的一个事
 
 ## 关于 Michill
 
-Michill 是一个独立的足球与预测市场研究项目。我们关心透明的数据层：什么是已知的，什么是缺失的，什么已经验证，什么不应该被过度声称。
+Michill 是我的个人足球与预测市场研究项目。我关心透明的数据层：什么是已知的，什么是缺失的，什么已经验证，什么不应该被过度声称。
 
 这次发布是其中可以公开、可以复用的部分。
 
@@ -272,7 +272,7 @@ Michill 是一个独立的足球与预测市场研究项目。我们关心透明
 
 Hi, this is **Michill**.
 
-We are building open football research datasets for people who want to study the 2026 World Cup with cleaner context, better source discipline, and fewer black-box assumptions. This repository is Michill's public head-to-head data package for the 2026 FIFA World Cup field. It covers every possible team-vs-team pairing among the 48 teams used by our research system.
+I am building open football research datasets for people who want to study the 2026 World Cup with cleaner context, better source discipline, and fewer black-box assumptions. This repository is Michill's public head-to-head data package for the 2026 FIFA World Cup field. It covers every possible team-vs-team pairing among the 48 teams used by my research system.
 
 The goal is simple: before the tournament starts, every possible matchup should already have a clear historical status:
 
@@ -380,7 +380,7 @@ The open package deliberately stops at reusable public football context. Private
 
 ## About Michill
 
-Michill is an independent football and prediction-market research project. We care about transparent data layers: what is known, what is missing, what is verified, and what should not be overclaimed.
+Michill is my independent football and prediction-market research project. I care about transparent data layers: what is known, what is missing, what is verified, and what should not be overclaimed.
 
 This release is the public, reusable part of that work.
 

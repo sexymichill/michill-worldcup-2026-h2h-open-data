@@ -1,13 +1,13 @@
 [
   {
     "path": "README.md",
-    "bytes": 4554,
-    "sha256": "1b1361399368621618f8aa2dd7ebeb7b10ca4c86a4b38b61b367d3511d148c21"
+    "bytes": 4542,
+    "sha256": "a0f2742efda7a967227fa400040b5eb1510f87b9cf19e06c8eef49bd907a133d"
   },
   {
     "path": "README.en.md",
-    "bytes": 4869,
-    "sha256": "c556adcacbda7e4e412300f9c6375cb2f23dfe935af948d554e67520488ba817"
+    "bytes": 4865,
+    "sha256": "e94e7add45242c6f96e2085eeede2f17b40f8f56d73ca5a184951285e4fafab2"
   },
   {
     "path": ".gitignore",
@@ -57,7 +57,7 @@
   {
     "path": "data/h2h_coverage_matrix.json",
     "bytes": 779607,
-    "sha256": "4bf7be633462133db62967f042dd803ebb6358f536d4692efb728da82b188e9b"
+    "sha256": "2e3024b0708aa4fdd2b6b37fd0e42a1ec3275da651ebb6951c1a492a744fcde1"
   },
   {
     "path": "docs/METHODOLOGY.md",
@@ -81,12 +81,12 @@
   },
   {
     "path": "scripts/export-open-h2h-package.ts",
-    "bytes": 34130,
-    "sha256": "c292e968afbfb9fa7f00d143953562f0144cc391da6c79a74f303c99e5d1e6fd"
+    "bytes": 34114,
+    "sha256": "967a133105140c449b2173f1544ca73d39066d4b67063e7b6e937c9768236fd5"
   },
   {
     "path": "checks/validation-summary.json",
     "bytes": 971,
-    "sha256": "7565b8963cde7cb977dc0997a972f658e5dfd8d9e2dcd61306ae983b7ed8d202"
+    "sha256": "15270eac3388db578cdd168b180ab01278badc6a04d0709289735545578d449a"
   }
 ]
